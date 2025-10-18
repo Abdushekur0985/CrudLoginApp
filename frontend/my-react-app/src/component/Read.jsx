@@ -54,7 +54,7 @@ function Read() {
       </div>
     );
   }
-
+// gitIgnore added 
   const handleEdit = () => {
     Swal.fire({
       title: "Edit Student?",
@@ -95,6 +95,6 @@ function Read() {
 export default Read;
 
 
-;
+
 
 
