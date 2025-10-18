@@ -85,7 +85,7 @@ function Read() {
           onClick={handleEdit}
           className="btn btn-primary"
         >
-          Edit
+          update
         </button>
       </div>
     </div>
